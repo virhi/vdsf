@@ -1,0 +1,22 @@
+# Bootstrap
+symfony/app/bootstrap*
+
+# Symfony directories
+symfony/vendor/*
+*/logs/*
+*/cache/*
+web/uploads/*
+web/bundles/*
+
+# Configuration files
+app/config/parameters.ini
+symfony/app/config/parameters.yml
+
+# Composer
+symfony/composer.phar
+
+# IDE
+.idea
+
+# vagrant
+.vagrant
